@@ -9,8 +9,8 @@
 title: Marta & Ethan
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-    "Site for Marta and Ethan's wedding"
-baseurl: "/wedding-site" # the subpath of your site, e.g. /blog
+  Site for Marta and Ethans wedding
+baseurl: "/wedding-site"
 url: "https://esoergel.github.io/"
 github_username:  esoergel
 gems:
