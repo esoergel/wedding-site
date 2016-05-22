@@ -18,3 +18,10 @@ gems:
 
 # Build settings
 markdown: kramdown
+lsi: false
+safe: true
+source: "."
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
