@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: home
 permalink: /
+feature_image: img/020.JPG
 ---
 
 
