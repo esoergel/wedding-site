@@ -4,7 +4,7 @@ title: Marta & Ethan
 email: your-email@domain.com
 description: > # ignore newlines until "baseurl:"
   Site for Marta and Ethans wedding
-baseurl: "/wedding-site"
+baseurl: ""
 url: "https://esoergel.github.io/"
 background: "img/IMG_20000409_242006184_HDR.jpg"
 github_username:  esoergel
