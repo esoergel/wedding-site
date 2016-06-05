@@ -9,8 +9,12 @@
 
     <div class="wrapper main-body">
       {% if page.feature_image %}
-        <img src="{{ page.feature_image }}">
-        <header class="post-header">
+        <style>
+          .image-header {
+            background-image: url({{ page.feature_image }});
+          }
+        </style>
+        <header class="image-header">
           <h1 class="post-title">{{ page.title }}</h1>
         </header>
       {% else %}
@@ -24,7 +28,9 @@
       </div>
     </div>
 
+    {% comment %}
     {% include footer.html %}
+    {% endcomment %}
 
   </body>
 

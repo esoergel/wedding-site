@@ -1,9 +1,11 @@
 ---
 layout: default
-title: home
+title: 
 permalink: /
 feature_image: img/020.JPG
 ---
 
+# Marta and Ethan are getting married!!!
 
-This is the home page
+* When: October 8th, 2016
+* Where: Atlantic Beach, FL
