@@ -2,7 +2,6 @@
 <html>
 
     {% include head.html %}
-
     <body>
 
         {% include header.html %}
@@ -13,8 +12,9 @@
                 {{ page.title }}<br/>
                 <small>{{ page.subheading }}</small>
             </h1>
+        </div>
 
-            <div id="hero-carousel" class="carousel slide" data-ride="carousel">
+            <div id="hero-carousel" style="margin: auto;" class="carousel slide" data-ride="carousel">
 
                 <ol class="carousel-indicators">
                     {% for pic in page.pics %}
@@ -42,13 +42,24 @@
 
             </div>
 
+        <div class="container">
             <div class="post-content">
                 {{ content }}
             </div>
-
         </div>
 
         {% include footer.html %}
+
+        <script>
+            // Set the optimal width for the carousel
+            carousel = $("#hero-carousel");
+            height = window.innerHeight - carousel.position().top;
+            width1 = height / 1080 * 1440 * 0.98;  // width for max height
+            width2 = window.innerWidth * 0.90;  // max width
+            console.log(width1);
+            console.log(width2);
+            carousel.css('width', width2 > width1 ? width1 : width2);
+        </script>
 
     </body>
 
