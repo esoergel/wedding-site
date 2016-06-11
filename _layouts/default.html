@@ -12,55 +12,13 @@
                 {{ page.title }}<br/>
                 <small>{{ page.subheading }}</small>
             </h1>
-        </div>
 
-            <div id="hero-carousel"
-                 style="margin: auto;"
-                 class="carousel slide"
-                 data-ride="carousel"
-                 data-interval="8000">
-                <ol class="carousel-indicators">
-                    {% for pic in page.pics %}
-                    <li data-target="#hero-carousel" {% if forloop.first %}class="active"{% endif %}></li>
-                    {% endfor %}
-                </ol>
-
-                <div class="carousel-inner" role="listbox">
-                    {% for pic in page.pics %}
-                    <div class="item{% if forloop.first %} active{% endif %}">
-                        <img src="{{ pic.path }}">
-                        <div class="carousel-caption">
-                            {{ pic.caption }}
-                        </div>
-                    </div>
-                    {% endfor %}
-                </div>
-
-                <a class="left carousel-control" href="#hero-carousel" role="button" data-slide="prev">
-                    <span class="glyphicon glyphicon-chevron-left"></span>
-                </a>
-                <a class="right carousel-control" href="#hero-carousel" role="button" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right"></span>
-                </a>
-
-            </div>
-
-        <div class="container">
             <div class="post-content">
                 {{ content }}
             </div>
         </div>
 
         {% include footer.html %}
-
-        <script>
-            // Set the optimal width for the carousel
-            carousel = $("#hero-carousel");
-            height = window.innerHeight - carousel.position().top;
-            width1 = height / 1080 * 1440 * 0.98;  // width for max height
-            width2 = window.innerWidth * 0.90;  // max width
-            carousel.css('width', width2 > width1 ? width1 : width2);
-        </script>
 
     </body>
 

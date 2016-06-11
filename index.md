@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: carousel
 title: Marta and Ethan are getting married!!!
 subheading: October 8th, 2016 - Atlantic Beach, FL
 permalink: /
