@@ -6,7 +6,6 @@ description: > # ignore newlines until "baseurl:"
   Site for Marta and Ethans wedding
 baseurl: ""
 url: "https://esoergel.github.io/"
-background: "img/half-dome.jpg"
 github_username:  esoergel
 gems:
   - github-pages
