@@ -12,6 +12,8 @@ As the most experienced sailor Ethan was assigned to the sunfish while the rest 
 For the next two hours, Marta and Ethan peacefully sailed in the inter-coastal talking about the art of sailing, travels, languages and probably Italian food. They even saw dolphins!
 On our first date we watched [Cool Runnings](https://www.youtube.com/watch?v=l_VMr3k152I) –“I see pride! I see power! I see a badass mother who won’t take no crap off of nobody!”- while dunkin’ chocolate chips cookies in milk. When [Ethan](https://m.xkcd.com/458/) tried to kiss Marta, she turned the other way. Marta was on the wrong side of history. Thankfully she realized her mistake!
 
+![Marta and Ethan in front of Library West at UF](/img/DSCN7870.JPG) 
+
 
 The proposal:
 
