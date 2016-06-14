@@ -4,7 +4,7 @@ title: The Couple
 subheading: October 8th, 2016 - Atlantic Beach, FL
 ---
 
-How we met: 
+# How we met: 
 
 We didn’t know each other until we got stuck on a 3 by 2 (or 1,5 squared meters) sunfish, which is a small, light sailboat with only one sail. We weren’t running away from pirates or trying to survive a hurricane: as an exchange student in Florida, Marta had joined TRiP’s sailing trip, where Ethan was one of the outdoor guides. His hair was still long.
 
@@ -18,18 +18,20 @@ On our first date we watched [Cool Runnings](https://www.youtube.com/watch?v=l_V
 **TRiP: Travel and Recreation Program, University of Florida
 
 
-![Marta and Ethan in front of Library West at UF](/img/DSCN7870.JPG)
-**Marta and Ethan in front of Library West at UF (May 2009)**
+![Marta and Ethan in front of Library West at UF](/img/krishna-lunch.jpg)
+
+#### Marta and Ethan in front of Library West at UF (May 2009)
 
 
-The proposal:
+# The proposal:
 
 Fast-forward to March 2016. Seven years and many adventures after that epic night, Ethan and Marta were travelling in Cambodia, on a 50CC scooter in the Cardamom mountains to go see the Tatai waterfall on the homonym river. At the right moment, Ethan and Marta swam behind the falls, in a private, romantic spot. 
 The rest was pretty much like [this](https://www.youtube.com/watch?v=mtIUZBV9Ka4). Thanks Leeann for finding this gem!
 
 
-![Bla bla](/img/IMG_20160305_070450866.jpg)
-**The night after they decided to get hitched**
+![Bla bla](/img/crab-dinner.jpg)
+
+#### The night after they decided to get hitched
 
 
 
