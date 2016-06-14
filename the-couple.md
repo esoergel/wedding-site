@@ -12,7 +12,14 @@ As the most experienced sailor Ethan was assigned to the sunfish while the rest 
 For the next two hours, Marta and Ethan peacefully sailed in the inter-coastal talking about the art of sailing, travels, languages and probably Italian food. They even saw dolphins!
 On our first date we watched [Cool Runnings](https://www.youtube.com/watch?v=l_VMr3k152I) –“I see pride! I see power! I see a badass mother who won’t take no crap off of nobody!”- while dunkin’ chocolate chips cookies in milk. When [Ethan](https://m.xkcd.com/458/) tried to kiss Marta, she turned the other way. Marta was on the wrong side of history. Thankfully she realized her mistake!
 
-![Marta and Ethan in front of Library West at UF](/img/DSCN7870.JPG) 
+
+*Inter-coastal: the canal that divides Florida from a long and slim limb of land that borders the Atlantic ocean. 
+
+**TRiP: Travel and Recreation Program, University of Florida
+
+
+![Marta and Ethan in front of Library West at UF](/img/DSCN7870.JPG)
+**Marta and Ethan in front of Library West at UF (May 2009)**
 
 
 The proposal:
@@ -21,10 +28,9 @@ Fast-forward to March 2016. Seven years and many adventures after that epic nigh
 The rest was pretty much like [this](https://www.youtube.com/watch?v=mtIUZBV9Ka4). Thanks Leeann for finding this gem!
 
 
+![Bla bla](/img/IMG_20160305_070450866.jpg)
+**The night after they decided to get hitched**
 
 
 
 
-*Inter-coastal: the canal that divides Florida from a long and slim limb of land that borders the Atlantic ocean. 
-
-**TRiP: Travel and Recreation Program, University of Florida
