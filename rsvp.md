@@ -1,7 +1,7 @@
 ---
 layout: blank
-title: Register
-permalink: /register/
+title: RSVP
+permalink: /rsvp/
 ---
 
 {% include header.html %}
