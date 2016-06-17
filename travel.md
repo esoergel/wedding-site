@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Details
+title: Travel
 subheading: October 8th, 2016 - Atlantic Beach, FL
 ---
 
 
-#Accomodation
+# Accomodation
 
 We have a block of 11 rooms reserved at the [Palms Hotel](http://www.palmsretro.com/) for Saturday night. Market rate is normally between $139 and $169, however if you mention Marta and Ethan's wedding ALL rooms will be $129for Saturday night. If there is enough interest to book all rooms for Friday night and/or Sunday I can try to get the discount for those night. Please email me (marta.marello@gmail.com) for interest in addition to Saturday night.
 
