@@ -11,11 +11,11 @@ We have a block of 11 rooms reserved at the [Palms Hotel](http://www.palmsretro.
 
 The Palms is a small, exotic hotel located near Town Center, the main road that divides Atlantic Beach from Neptune Beach, which is where all the bars, cafes and restaurants are. This is about a mile away from the ceremony location. The hotel has been recently renovated and offers complimentary bikes and surf boards to guests. Ethan and I stayed here a couple of years ago and we really enjoyed it!
 
-There is also a Holiday Inn about a mile inland from the ceremony that is definitely an option.
+There is also a Holiday Inn about a mile inland from the location of the ceremony that is definitely an option.
 
 
 # Getting here
 
 The closest airport is Jacksonville, FL (JAX). There is really no good transportation from Jacksonville to Atlantic Beach, except if you rent a car o get a ride. 
 
-Other options include flying into Miami (MIA) or Orlando (MCO) and then take a bus (Greyhound) or train (Amtrak) or a short flight.
+Other options include flying into Miami (MIA) or Orlando (MCO) and then take a bus (Greyhound) or train (Amtrak) or a short flight to Jacksonville. 
