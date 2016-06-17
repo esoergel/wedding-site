@@ -4,7 +4,7 @@ title: Details
 subheading: October 8th, 2016 - Atlantic Beach, FL
 ---
 
-<img src="img/beach-wedding.jpg" style="float: right; margin: 10px;">
+<img src="/img/beach-wedding.jpg" style="float: right; margin: 10px;">
 
 <br /><br /><br /><br />
 
