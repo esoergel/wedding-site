@@ -6,6 +6,8 @@ permalink: /
 pics:
   - path: img/scooter.jpg
     caption: Koh Kong, Cambodia - March 2016
+  - path: img/venice.jpg
+    caption: Venice - November 2014
   - path: img/half-dome.jpg
     caption: Yosemite, California - July 2014
   - path: img/PuertoRico2.jpg
