@@ -13,6 +13,11 @@ The Palms is a small, exotic hotel located near Town Center, the main road that 
 
 There is also a Holiday Inn about a mile inland from the location of the ceremony that is definitely an option.
 
+Hotel Palms
+28 Sherry Drive
+Atlantic Beach, Florida 32233
+904-241-7776
+info@palmsretro.com 
 
 # Getting here
 
