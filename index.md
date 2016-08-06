@@ -4,6 +4,8 @@ title: Marta and Ethan are getting married!!!
 subheading: October 8th, 2016 - Atlantic Beach, FL
 permalink: /
 pics:
+  - path: img/anderson.png
+    caption:
   - path: img/scooter.jpg
     caption: Koh Kong, Cambodia - March 2016
   - path: img/venice.jpg
