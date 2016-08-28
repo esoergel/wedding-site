@@ -26,7 +26,7 @@ On our first date we watched [Cool Runnings](https://www.youtube.com/watch?v=l_V
 # The proposal:
 
 Fast-forward to March 2016. Seven years and many adventures after that epic night, Ethan and Marta were travelling in Cambodia, on a 50CC scooter in the Cardamom mountains to go see the Tatai waterfall on the homonym river. At the right moment, Ethan and Marta swam behind the falls, in a private, romantic spot. 
-The rest was pretty much like [this](https://www.youtube.com/watch?v=mtIUZBV9Ka4). Thanks Leeann for finding this gem!
+The rest was pretty much like [this](http://www.dailymotion.com/video/x2yfxlq) [found a new link]. Thanks Leeann for finding this gem!
 
 
 ![Bla bla](/img/crab-dinner.jpg)
