@@ -9,7 +9,7 @@ subheading: October 8th, 2016 - Atlantic Beach, FL
 
 Dear all,
 
-the wedding is now a month away! Ethan and I cannot wait to see you and celebrate together our union. 
+the wedding is now a month away! Ethan and I cannot wait to see you and celebrate our marriage together. 
 A few logistical updates first:
 
 We set up a [google spreadsheet](https://docs.google.com/spreadsheets/d/1LP7XYf56kV703ZLHnGwH4H7QZds6baYzsP4VDncw0Ns/edit?usp=sharing) for carpooling and ride sharing. If you need a ride or you have a car and have seats available type up your information, including your contact info and your date and time of arrival. 
