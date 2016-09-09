@@ -27,7 +27,7 @@ info@palmsretro.com
 
 # Getting here
 
-The closest airport is Jacksonville, FL (JAX). There is really no good transportation from Jacksonville to Atlantic Beach, except if you rent a car o get a ride. 
+The closest airport is Jacksonville, FL (JAX). There is really no good transportation from Jacksonville to Atlantic Beach, except if you rent a car o get a ride. I've been told that you can also Uber for around 30$.
 
 Other options include flying into Miami (MIA) or Orlando (MCO) and then take a bus (Greyhound) or train (Amtrak) or a short flight to Jacksonville. 
 
