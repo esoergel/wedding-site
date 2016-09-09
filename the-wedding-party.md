@@ -15,7 +15,7 @@ Laurel Parrish
 
 Chiara Marello: Maid of Honor
 
-She's my sister, my "Sisterina" aka as Kiki. During our first encounter (I was 2 years and 2 weeks old) she gave me a beautiful 
+She's my sister, my "Sisterina" aka Kiki. During our first encounter (I was 2 years and 2 weeks old) she gave me a beautiful 
 swing as present: it was love at first sight! She's my partner in crime and we shared a lifetime together full of laughs, some tears,
 many games when we were younger and adventures when we got older. She's the best gift my parents could give me.
 
@@ -46,19 +46,19 @@ Delphi (the cat aka da Dooze).
 
 Nathaniel Soergel: Best Man 
 
-Nat has known Ethan since the ripe young age of 3 and a half. Nat lives in Atlantic Beach with his dog Hadley.
+Nat came along when Ethan was three and a half, and has been threatening to out-do all Ethan's athletic achievements ever since.  Nat lives in Atlantic Beach with his dog Hadley.
 
 
 Dylan Goelz: Groomsman
 
-Dylan and Ethan have been friends since pre-school. Dylan lives in San Francisco with his wife Mel and their dog Radley.
+Dylan and Ethan have been friends since the first grade.  He may now be a tall, handsome adult, but Ethan still remembers when he was a shrimpy, buck-tooth little kid.  Dylan lives in San Francisco with his wife Mel and their dog Radley.
 
 
 Ezequiel Zylberberg: Groomsman
 
-Aka Zeke, Ethan met him in college when they both joined the student organization TRiP (Travel and Recreation Program). They share the love of the outdoors, biking and very very long discussions about the world's problems and ways of fixing them. Zeke just recently moved to Cambridge with her fiancee Ges.
+Zeke and Ethan met in college when they both joined UF's TRiP (Travel and Recreation Program). They share the love of the outdoors, biking and very very long discussions about the world's problems and ways of fixing them.  They also enjoy celebrating their birthdays together.  Zeke just recently moved to Cambridge with his partner, Ges.
 
 
 Camila Mateo: Groomslady
 
-Ethan met Camila in Boston through Zeke and immediately became friends. They share a passion for movies and whiskey. Camila lives in Cambridge with her girlfriend Jess and Willhelm the cat. 
+Ethan met Camila in Boston through Zeke and immediately became friends. They share a passion for movies and cocktails.  If Ethan looks remotely fashionable at this thing, it's Camila's doing.  She lives in Cambridge with her girlfriend Jess and Willhelm the cat, and makes a mean mofongo.
