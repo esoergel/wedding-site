@@ -48,5 +48,6 @@ The closest airport is Jacksonville, FL (JAX). There is really no good transport
 
 Other options include flying into Miami (MIA) or Orlando (MCO) and then take a bus (Greyhound) or train (Amtrak) or a short flight to Jacksonville. 
 
+--------------
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NW_yKlP_8Z0" frameborder="0" allowfullscreen></iframe>
