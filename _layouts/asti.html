@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+    <style>
+        img {
+            width: 50%;
+            display: block;
+            margin: 2em auto auto;
+        }
+        h4 {
+            text-align: center;
+            margin-top: 0px;
+        }
+        .post-content {
+            margin-bottom: 10em;
+        }
+    </style>
+    <body>
+
+        {% include asti-header.html %}
+
+        <div class="container" >
+
+            <h1 class="text-center">
+                {{ page.title }}<br/>
+                <small>{{ page.subheading }}</small>
+            </h1>
+
+            <div class="post-content">
+                {{ content }}
+            </div>
+        </div>
+
+        {% include footer.html %}
+
+    </body>
+
+</html>
