@@ -5,7 +5,7 @@ subheading: September 15th, 2017 - Vecchio Castagno
 permalink: /english
 ---
 
-Dear friends,
+Dear friends travelling from the US and Ireland,
 
 Ethan and I are delighted that you will be joining us for the Italian celebrations of our wedding. Given the precedents, be sure to bring an umbrella..
 Jokes aside, the reception will be held on Friday September 15th at the "Vecchio castagno" restaurant located in fraz. Maroero by Cocconato d'Asti. The gathering will start at noon. As this is located about 40 minutes away from Asti, we will organize a shuttle bus to transport guests from Asti to the restaurant in the morning and the reverse at night. More details on the shuttle pick-up location will be posted here closer to the date.
