@@ -26,3 +26,6 @@ Sunday September 17th: Palio parade at 2PM and [Palio](http://www.comune.asti.it
 
 
 Contacts: Marta phone: 857-272-3047 (Whatsapp) or +39-338-6950693 (Italian cell)
+
+
+[Party playlist](https://open.spotify.com/user/amarela15/playlist/0gCHdbNgpDOhs39ZydBBt0)
