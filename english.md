@@ -7,7 +7,7 @@ permalink: /english
 
 Dear friends travelling from the US and Ireland,
 
-The trip is coming up soon so you should listen to [Radio Italia](www.radioitalia.it) to get in the mood and don;t forget to check out the [Party playlist](https://open.spotify.com/user/amarela15/playlist/0gCHdbNgpDOhs39ZydBBt0)
+The trip is coming up soon so you should listen to [Radio Italia](www.radioitalia.it) to get in the mood and don't forget to check out the [Party playlist](https://open.spotify.com/user/amarela15/playlist/0gCHdbNgpDOhs39ZydBBt0)
 
 
 Ethan and I are delighted that you will be joining us for the Italian celebrations of our wedding. Given the precedents, be sure to bring an umbrella..
@@ -35,12 +35,12 @@ Watch for your wallet and valuables closely: bags and pockets with zippers are r
 
 
 ### FAVORITE BARs/CAFEs
-Cafelait in Via Roero 8
-Hard cafe in Via dei cappellai 9
+Cafelait in Via Roero 8; 
+Hard cafe in Via dei cappellai 9; 
 Caffe' del Teatro in Corso Alfieri 239
 
 #### APERITIVO: 
-Caffetteria Mazzetti inside Giardini Alganon (by piazza Roma) il Cicchetto in via Garetti 11
+Caffetteria Mazzetti inside Giardini Alganon (by piazza Roma) or il Cicchetto in via Garetti 11
 
 BEST GELATO: gelateria Alfieri in via Gobetti 6.
 
