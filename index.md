@@ -5,7 +5,7 @@ subheading: 15 Settembre 2017 - Vecchio Castagno
 permalink: /
 ---
 
-Ciao!
+Carissimi,
 Il ricevimento si terra' al Ristorante Vecchio Castagno - frazione Maroero, Cocconato (Asti) - il giorno 15 settembre 2017, ritrovo alle ore 12.
 
 Ethan ed io fortunatamente disponiamo di tutto cio' di cui abbiamo bisogno. Non abbiamo una lista nozze e non chiediamo regali; oltretutto, volando oltreoceano, il peso e le dimensioni delle nostre valigie hanno limiti ben precisi.
