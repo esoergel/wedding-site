@@ -37,7 +37,8 @@ Cafelait in Via Roero 8
 Hard cafe in Via dei cappellai 9
 Caffe' del Teatro in Corso Alfieri 239
 
-APERITIVO: Caffetteria Mazzetti inside Giardini Alganon (by piazza Roma) or il Cicchetto in via Garetti 11
+#### APERITIVO: 
+Caffetteria Mazzetti inside Giardini Alganon (by piazza Roma) il Cicchetto in via Garetti 11
 
 BEST GELATO: gelateria Alfieri in via Gobetti 6.
 
