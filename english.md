@@ -7,7 +7,9 @@ permalink: /english
 
 Dear friends travelling from the US and Ireland,
 
-The trip is coming up soon so you should listen to [Radio Italia](www.radioitalia.it) to get in the mood! 
+The trip is coming up soon so you should listen to [Radio Italia](www.radioitalia.it) to get in the mood and don;t forget to check out the [Party playlist](https://open.spotify.com/user/amarela15/playlist/0gCHdbNgpDOhs39ZydBBt0)
+
+
 Ethan and I are delighted that you will be joining us for the Italian celebrations of our wedding. Given the precedents, be sure to bring an umbrella..
 Jokes aside, the reception will be held on Friday September 15th at the "Vecchio castagno" restaurant located in fraz. Maroero by Cocconato d'Asti. The gathering will start at noon. As this is located about 40 minutes away from Asti, we will organize a shuttle bus to transport guests from Asti to the restaurant in the morning and the reverse at night. More details on the shuttle pick-up location will be posted here closer to the date. The attire is cocktail attire (nice elegant dress for the ladies and nice shoes with a button down shirt and tie for the guys).
 
@@ -25,14 +27,14 @@ Saturday September 16th: breakfast together at CafeLait (via Roero, at the inter
 
 Sunday September 17th: Palio parade at 2PM and [Palio](http://www.comune.asti.it/index.php?id_sezione=943) starting at 4PM.
 
-DOs and DONTs 
+#### DOs and DONTs 
 Remember to carry with you clinex/tissues at all times because there is a chance public restrooms won't have TP. Also ladies DO NOT SEAT  on toilet in public restrooms unless it looks ultra-clean.
 There is no tipping in Italy.
 If seen walking around Asti with socks and sandals I will pretend I don't know you.
 Watch for your wallet and valuables closely: bags and pockets with zippers are recommended.
 
 
-FAVORITE BARs/CAFEs
+### FAVORITE BARs/CAFEs
 Cafelait in Via Roero 8
 Hard cafe in Via dei cappellai 9
 Caffe' del Teatro in Corso Alfieri 239
@@ -51,4 +53,3 @@ BEST MAP: Open street maps has offline maps with points of interests ( bars, caf
 Contacts: Marta phone: 857-272-3047 (Whatsapp) or +39-338-6950693 (Italian cell)
 
 
-[Party playlist](https://open.spotify.com/user/amarela15/playlist/0gCHdbNgpDOhs39ZydBBt0)
