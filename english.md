@@ -17,9 +17,11 @@ As for the days you will be spending in Asti, below you find a  tentative plan t
 
 Tuesday September 12th: Visit to Cinque Terre. We will leave by train early in the morning from Asti and will spend the day walking, relaxing, swimming, and eating focaccia between Riomaggiore, Manarola, Corniglia, Vernazza, and Monterosso. We will catch the train back from Monterosso in mid-afternoon and be back in Asti by nightfall.
 
-Most of you will arrive in Asti on September 13th. The tentative plan is to host a welcome aperitif at my house (via San Martino, 21) that night. 
+Most of you will arrive in Asti on September 13th. The definite plan is to have pizza together at 7.45PM at Monna Laura pizzeria located in piazza Statuto.
 
-Thursday September 14th will be dedicated to visiting the town. We can meet in front of my house and roam around: the 2 things I think you should see are the house where the famous poet [Vittorio Alfieri](https://en.wikipedia.org/wiki/Vittorio_Alfieri) was born and the Cripta of Sant'Anastasio where you can see the remnants of construction of Roman times (700 A.C.). To learn more about Asti, visit the tourism office [website](http://www.astiturismo.it/en) for more information. At 9PM we will go see the Palio degli sbandieratori that is the competition of the [flag-throwers](https://duckduckgo.com/?q=sbandieratori&t=ffab&iax=1&ia=images).
+Thursday September 14th will be dedicated to visiting the town. We can meet in front of my house and roam around: the 2 things I think you should see are the house where the famous poet [Vittorio Alfieri](https://en.wikipedia.org/wiki/Vittorio_Alfieri) was born and the Cripta of Sant'Anastasio where you can see the remnants of construction of Roman times (700 A.C.). To learn more about Asti, visit the tourism office [website](http://www.astiturismo.it/en) for more information. 
+
+At 7PM you are welcome to come to my house (via San Martino, 21) for aperitif. At 9PM we will go see the Palio degli sbandieratori that is the competition of the [flag-throwers](https://duckduckgo.com/?q=sbandieratori&t=ffab&iax=1&ia=images).
 
 Friday September 15th: reception and party time!
 
